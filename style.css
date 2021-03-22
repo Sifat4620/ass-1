@@ -1,0 +1,147 @@
+*{margin: 0;
+padding: 0}
+
+
+.header{
+	width: 100%;
+}
+.container{
+	width: 1140px;
+	margin: auto;
+}
+.nav{
+	width: 100%;
+	float: left;
+	padding: 13px;
+
+}
+.logo{
+	width: 10%;
+	float: left;
+
+}
+.menu {
+	width: 90%;
+	float: left;
+	text-align: center;
+    line-height: 60px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.menu ul li {
+	list-style:  none;
+	display: inline-block;
+	margin-right: 50px;
+
+}
+a
+{
+	text-decoration: none;
+	font-size: 26px;
+
+}
+
+
+.nav ul {
+	float: right;
+}
+
+.banner{
+	width: 100%;
+}
+.banner-text{
+	width: 100%;
+	float: left;
+}
+.text{
+	text-align: center;
+	padding: 51px;
+}
+.text h2{
+	color: blue;
+}
+.text h3{
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+.banner-img{
+	text-align: center;
+}
+.text h1{
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+.text h2{
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+.text h3{
+	padding: 10px;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+}
+
+.middle{
+	width: 100%;
+	padding: 37px;
+}
+.two-text{
+	width: 100%;
+   text-align: center;
+  display: inline-block;
+}
+ 
+.right{
+float: right;
+width: 50%;
+}
+.left{
+float: left;
+width: 50%;
+	}
+
+.one h1
+{
+color: red;
+font-family: 'Noto Sans', sans-serif;
+ }
+ .two h1
+{
+ padding-right: 314px;
+ font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+.one h1 span{
+color:#837e7e;
+font-size: : 10px;
+font-family: 'Noto Sans', sans-serif;
+}
+.pic{
+	width: 100%
+}
+.cap{
+width: 100%;
+ display: inline-block;
+
+}
+.cap-one{
+	width: 20%;
+	float: left;
+	padding-right: 88px;
+}
+.cap-two{
+	width: 20%;
+	float: left;
+	padding-right: 88px;
+}
+.cap-thrid{
+	width: 20%;
+	float: left;
+}
+.
+ 
+
+
+ 
